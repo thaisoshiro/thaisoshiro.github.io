@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Thais Oshiro
-  pic: http://www.gravatar.com/avatar/f3c1142827216d291981558383133bf0?s=600
+  pic: me
   position: Software Developer
   social:
     - title: twitter
