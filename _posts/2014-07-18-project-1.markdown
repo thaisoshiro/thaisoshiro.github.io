@@ -1,15 +1,14 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: This is Worm
+subtitle: iOS App
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2015-07-31
+img: screenshot.jpg
+thumbnail: icon.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: May 2015
+category: Mobile Development
+description: Redemption game where you have to hit the worms and watch out for the rabbits! There are four different worms and each one has its value. The game has two modes: arcade and survival and it is integrated with Game Center. The game is available at App Store (https://itunes.apple.com/us/app/this-is-worm/id981328366?ls=1&mt=8).
 
 ---
